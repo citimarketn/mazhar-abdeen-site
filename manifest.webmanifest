@@ -1,0 +1,16 @@
+{
+  "name": "مظهر علي عابدين | Mazhar Ali Abdeen",
+  "short_name": "مظهر عابدين",
+  "description": "تسويق إلكتروني وإدارة إعلانات وتطوير مواقع",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#D7EDF5",
+  "theme_color": "#2F6FED",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

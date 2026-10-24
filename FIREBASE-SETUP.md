@@ -35,3 +35,10 @@ service firebase.storage {
 
 7. Authentication ← Settings ← Authorized domains ← أضف `citimarketn.github.io`.
 8. ارفع `index.html` على GitHub، ثم افتح: `https://citimarketn.github.io/<repo>/#admin` وسجّل الدخول.
+
+## ملفات الرفع على GitHub (كلها في نفس المجلد)
+- `index.html`
+- `manifest.webmanifest`
+- مجلد `icons/` (icon-192.png, icon-512.png, apple-touch-icon.png, favicon.png)
+
+بعد الرفع: على الموبايل افتح الموقع ← «إضافة إلى الشاشة الرئيسية» وسيظهر شعار «وادي المدينة» كأيقونة تطبيق.
