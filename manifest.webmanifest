@@ -7,7 +7,7 @@
   "display": "standalone",
   "dir": "rtl",
   "lang": "ar",
-  "background_color": "#D7EDF5",
+  "background_color": "#F2F8FA",
   "theme_color": "#2F6FED",
   "icons": [
     {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
